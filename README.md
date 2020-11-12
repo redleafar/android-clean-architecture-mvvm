@@ -1,1 +1,1 @@
-# Android project using MVVM and Clean Architecture
+# Android project with MVVM and Clean Architecture
